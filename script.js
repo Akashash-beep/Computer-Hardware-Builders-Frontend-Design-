@@ -15,9 +15,8 @@ for (let i = 0; i < x.length; i++) {
         navbar.classList.toggle('activated');
     })
 }
-console.log(x);
-// let currentIndex = 0;
-// function changebg() {
+
+
 
 //     image.src = path[currentIndex];
 //     currentIndex = (currentIndex + 1) % path.length;
